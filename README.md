@@ -87,8 +87,8 @@ The application uses the Alpha Vantage API which has a limit of 25 requests per 
 - Social sharing features
 
 ## Developed By
-Ahzam Khan  
-Final Year Student
+Ahad Khan 
+Undergrad Student
 
 ## Features
 - Real-time stock price tracking
